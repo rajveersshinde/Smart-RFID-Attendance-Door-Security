@@ -238,7 +238,7 @@ Upload the DevKit and ESP32-CAM sketches to their respective boards. Ensure both
 | Student One | A1B2C3D4 | Accepted | ATTENDANCE | 06/11/2026 | 09:15:30 |
 | Unknown | 99887766 | Declined | SECURITY | 06/11/2026 | 09:16:10 |
 
-*Example data only.*
+
 
 ## Important limitations and future improvements
 
@@ -267,22 +267,3 @@ This project is released under the MIT License. See [LICENSE](LICENSE).
 ## Acknowledgements
 
 Built as a second-year engineering project using the ESP32 ecosystem, MFRC522 RFID module, SSD1306 OLED, Google Apps Script, and Telegram Bot API.
-
-
-## Wiring and project reference images
-
-**ESP32 DevKit pin mapping**
-
-![ESP32 DevKit pin mapping](docs/images/devkit-pinout-reference.png)
-
-**ESP32-CAM trigger wiring**
-
-![ESP32-CAM connections](docs/images/esp32-cam-connections.png)
-
-**Feature comparison**
-
-![Feature summary](docs/images/feature-summary.png)
-
-**Buzzer wiring**
-
-![Buzzer connections](docs/images/buzzer-connections.png)
